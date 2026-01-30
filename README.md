@@ -10,7 +10,7 @@ Projeto prático de confecção de um relatório de vendas, desenvolvido durante
 
 ## 🛠️ Tecnologias Utilizadas
 * **Google Sheets:** Fonte de dados embrionária (XLS).
-* **Google Looker Studio** Apresentação dos dados.
+* **Google Looker Studio:** Apresentação dos dados.
 
 ## 📊 O Projeto
 O fluxo de trabalho consistiu em extrair as informações do dataset e e apresentálos na ferramenta de BI focada em visualização dos dados, Looker Studio. Um dos pontos chave foi trazer a tona o que os dados desejavam comunicar, baseado nos KPIs inerente ao negócios, com potencial de auxiliar na tomada de decisão tática e estratégica.
