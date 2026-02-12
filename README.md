@@ -1,6 +1,6 @@
 # Análise de Vendas: Google Sheets + Looker Studio
 
-Projeto prático de confecção de um relatório de vendas, desenvolvido durante aula disseminada no canal (Pedro Paiva Dashboards) pelo instrutor (Pedro Paiva), para consolidacao de conhecimento por meio de uma análise de dados com consumo de dados de planilha do Google Sheets, e criação de dashboard com a ferramenta de data vizualisation Looker Studio.
+Projeto prático de confecção de um relatório de vendas, para consolidacao de conhecimento por meio de uma análise de dados com consumo de dados de planilha do Google Sheets, e criação de dashboard com a ferramenta de data vizualisation Looker Studio.
 
 ## 📌 Objetivos
 * Integrar fonte de dados.
